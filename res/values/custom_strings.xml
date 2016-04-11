@@ -60,4 +60,8 @@
 \n\nDon\u2019t remove the <xliff:g id="name" example="SD card">^2</xliff:g> during the move.<xliff:g id="forcetext">^3</xliff:g>
     </string>
 
+    <!-- Time Contexual Header -->
+    <string name="status_bar_custom_header_title">Time Contextual Header</string>
+    <string name="status_bar_custom_header_summary">Enable notification panel header image</string>
+
 </resources>
